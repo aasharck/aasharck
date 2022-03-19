@@ -4,7 +4,7 @@
 ## 🧔 About me:
 - 👨‍💼: I am currently working as a `Programmer Analyst` for Cognizant.
 - 💻: I'm currently learning and creating new things with `Solidity` and `React`.
-- :thinking: I’m currently open for a new job opportunity in the `Web3 Space`, this is [my Resume](https://docs.google.com/document/d/1g8O8VrkkOag6qaY26GLfar93Jb7sSeaXh8YNl9eSDgg/edit?usp=sharing).
+- :thinking: I’m currently open for a new job opportunity in the `Web3 Space`.
 - 📧: How to reach me: **aasharck@gmail.com**
 
 <br>
