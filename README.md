@@ -3,8 +3,8 @@
 
 ## 🧔 About me:
 - 👨‍💼: I am currently working as a `Programmer Analyst` for Cognizant.
-- 💻: I'm currently learning and creating new things with `Solidity` and `React`.
-- :thinking: I’m currently open for a new job opportunity in the `Web3 Space`.
+- 💻: In my free time, I learn and create new things with `Solidity` and `React`.
+- :thinking: currently looking for a new job opportunity in the `Web3 Space`.
 - 📧: How to reach me: **aasharck@gmail.com**
 
 <br>
