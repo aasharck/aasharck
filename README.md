@@ -2,9 +2,9 @@
 
 
 ## 🧔 About me:
-- 👨‍💼: I am currently working as a `Programmer Analyst` for Cognizant.
-- 💻: In my free time, I learn and create new things with `Solidity` and `React`.
-- 🤔: Currently looking for a new job opportunity in the `Web3 Space`.
+- 👨‍💼: I am a Software Developer from India.
+- 💻: Currently learning and creating projects with `Solidity` and `React`.
+- 🤔: Actively looking for a new job opportunity in the `Web3 Space`.
 - 📧: How to reach me: **aasharck@gmail.com**
 
 <br>
@@ -39,4 +39,4 @@
 
 [Aashar Ck](https://github.com/aasharck)
 
-Last Edited on: 31/03/2022
+Last Edited on: 01/07/2022
