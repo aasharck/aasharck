@@ -4,7 +4,6 @@
 ## 🧔 About me:
 - 👨‍💼: I am a Freelance Blockchain Developer from India.
 - 💻: Currently learning and creating projects with `Solidity` and `React`.
-- 🤔: Actively looking for a new job opportunity in the `Web3 Space`.
 - 📧: How to reach me: **aasharck@gmail.com**
 
 <br>
