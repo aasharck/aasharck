@@ -3,8 +3,7 @@
 
 ## 🧔 About me:
 - 👨‍💼: I am a Freelance Blockchain Developer from India.
-- 💻: Currently learning and creating projects with `Solidity` and `React`.
-- 📧: How to reach me: **aasharck@gmail.com**
+- 📧: For jobs/freelance work, contact: **aasharck@gmail.com**
 
 <br>
 
