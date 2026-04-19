@@ -2,7 +2,7 @@
 
 
 ## 🧔 About me:
-- 👨‍💼: I am a Freelance Blockchain Developer.
+- 👨‍💼: I am a Freelance Software Developer.
 - 📧: For jobs/freelance work, contact: **aasharck@gmail.com**
 
 <br>
