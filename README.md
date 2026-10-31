@@ -1,6 +1,6 @@
 # Aashar CK
 
-Full-stack & AI engineer based in Dubai. I build web products end to end, and the AI inside them: agents that run in production, answers that cite their sources, and costs that are measured, not guessed.
+Full-stack & AI engineer based in Dubai. I build web products end to end, and the AI inside them.
 
 [aashar.dev](https://aashar.dev) · [aasharck@gmail.com](mailto:aasharck@gmail.com)
 
